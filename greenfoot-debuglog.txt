@@ -45,3 +45,56 @@ Opening project: C:\Users\ishak\greenfoot\Garp
 1604308026041: Listening for JDWP connection on address: javadebug
 Connected to debug VM via dt_shmem transport...
 Communication with debug VM fully established.
+nov. 02, 2020 11:22:03 A.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+====
+
+====
+Greenfoot run started: Mon Nov 02 11:22:36 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604312558031: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 300: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png
+Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
+java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
