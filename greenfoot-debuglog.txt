@@ -98,3 +98,33 @@ Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\Gree
 java.io.FileNotFoundException: Could not find file: GarpLeft.png
 Error or exception for source not in project: C:\Users\ishak\greenfoot\Garp\GreenfootImage.java, line 108: java.lang.IllegalArgumentException:
 java.io.FileNotFoundException: Could not find file: GarpLeft.png (in greenfoot.GreenfootImage)
+====
+
+====
+Greenfoot run started: Mon Nov 02 19:28:22 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604341703764: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Tue Nov 03 08:49:35 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604389777595: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
