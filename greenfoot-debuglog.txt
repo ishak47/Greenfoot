@@ -452,3 +452,78 @@ Caused by: java.lang.IllegalArgumentException: line/column numbers must be > 0
 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
 	at java.base/java.lang.Thread.run(Thread.java:834)
+====
+
+====
+====
+
+====
+Greenfoot run started: Thu Nov 05 11:50:05 CET 2020
+Greenfoot version: 3.6.1
+Greenfoot run started: Thu Nov 05 11:50:05 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+Java version 11.0.2
+JavaFX version 11.0.2+1
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+Opening project: C:\Users\ishak\greenfoot\Garp
+====
+
+====
+Greenfoot run started: Thu Nov 05 11:50:09 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+1604573410724: Listening for JDWP connection on address: javadebug
+1604573410795: Listening for JDWP connection on address: 127.0.0.1:61372
+Opening project: C:\Users\ishak\greenfoot\Garp
+Connected to debug VM via dt_shmem transport...
+1604573418366: Listening for JDWP connection on address: javadebug
+Communication with debug VM fully established.
+Connected to debug VM via dt_socket transport...
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Thu Nov 05 13:28:37 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604579322352: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Thu Nov 05 13:45:41 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604580343422: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
