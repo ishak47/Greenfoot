@@ -210,3 +210,245 @@ Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
 	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
 	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
 	at java.base/java.lang.Thread.run(Thread.java:834)
+====
+
+====
+====
+
+====
+Greenfoot run started: Wed Nov 04 14:28:11 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Greenfoot run started: Wed Nov 04 14:28:11 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604496493465: Listening for JDWP connection on address: javadebug
+1604496493836: Listening for JDWP connection on address: 127.0.0.1:59564
+Connected to debug VM via dt_shmem transport...
+Connected to debug VM via dt_socket transport...
+Communication with debug VM fully established.
+Communication with debug VM fully established.
+Exception in thread "JavaFX Application Thread" java.lang.NullPointerException
+	at bluej.editor.moe.MoeEditorPane.selectParagraph(MoeEditorPane.java:360)
+	at org.fxmisc.richtext.GenericStyledAreaBehavior.handleThirdPress(GenericStyledAreaBehavior.java:495)
+	at org.fxmisc.wellbehaved.event.template.InputMapTemplate.lambda$consume$0(InputMapTemplate.java:221)
+	at org.fxmisc.wellbehaved.event.template.PatternActionTemplate.lambda$null$1(InputMapTemplate.java:425)
+	at java.base/java.util.Optional.map(Optional.java:265)
+	at org.fxmisc.wellbehaved.event.template.PatternActionTemplate.lambda$getInputHandlerTemplateMap$2(InputMapTemplate.java:425)
+	at org.fxmisc.wellbehaved.event.template.InputHandlerTemplateMap.lambda$sequence$0(InputHandlerTemplateMap.java:25)
+	at org.fxmisc.wellbehaved.event.template.InputMapTemplate$HandlerTemplateConsumer$1.lambda$accept$0(InputMapTemplate.java:103)
+	at org.fxmisc.wellbehaved.event.InputHandler.handle(InputHandler.java:50)
+	at com.sun.javafx.event.CompositeEventHandler$NormalEventHandlerRecord.handleBubblingEvent(CompositeEventHandler.java:218)
+	at com.sun.javafx.event.CompositeEventHandler.dispatchBubblingEvent(CompositeEventHandler.java:80)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:238)
+	at com.sun.javafx.event.EventHandlerManager.dispatchBubblingEvent(EventHandlerManager.java:191)
+	at com.sun.javafx.event.CompositeEventDispatcher.dispatchBubblingEvent(CompositeEventDispatcher.java:59)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:58)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.BasicEventDispatcher.dispatchEvent(BasicEventDispatcher.java:56)
+	at com.sun.javafx.event.EventDispatchChainImpl.dispatchEvent(EventDispatchChainImpl.java:114)
+	at com.sun.javafx.event.EventUtil.fireEventImpl(EventUtil.java:74)
+	at com.sun.javafx.event.EventUtil.fireEvent(EventUtil.java:54)
+	at javafx.event.Event.fireEvent(Event.java:198)
+	at javafx.scene.Scene$MouseHandler.process(Scene.java:3851)
+	at javafx.scene.Scene$MouseHandler.access$1200(Scene.java:3579)
+	at javafx.scene.Scene.processMouseEvent(Scene.java:1849)
+	at javafx.scene.Scene$ScenePeerListener.mouseEvent(Scene.java:2588)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:397)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler$MouseEventNotification.run(GlassViewEventHandler.java:295)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.lambda$handleMouseEvent$2(GlassViewEventHandler.java:434)
+	at com.sun.javafx.tk.quantum.QuantumToolkit.runWithoutRenderLock(QuantumToolkit.java:390)
+	at com.sun.javafx.tk.quantum.GlassViewEventHandler.handleMouseEvent(GlassViewEventHandler.java:433)
+	at com.sun.glass.ui.View.handleMouseEvent(View.java:556)
+	at com.sun.glass.ui.View.notifyMouse(View.java:942)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+nov. 04, 2020 2:57:36 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+File C:\Users\ishak\greenfoot\Garp\counter.java changed on disk; our record is 1604498221686 but file was 1604499020126
+Failed to save source before compile; C:\Users\ishak\greenfoot\Garp\Counter.java (Het systeem kan het opgegeven bestand niet vinden)
+Error saving class before compile: C:\Users\ishak\greenfoot\Garp\Counter.java (Het systeem kan het opgegeven bestand niet vinden)
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Color (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Color is in unnamed module of loader 'app')' while converting value for '-fx-highlight-fill' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-inner-color' while resolving lookups for '-fx-text-fill' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Color (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Color is in unnamed module of loader 'app')' while converting value for '-fx-background-color' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Color (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Color is in unnamed module of loader 'app')' while converting value for '-fx-prompt-text-fill' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Color (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Color is in unnamed module of loader 'app')' while converting value for '-fx-highlight-fill' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-inner-color' while resolving lookups for '-fx-text-fill' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Color (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Color is in unnamed module of loader 'app')' while converting value for '-fx-background-color' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Color (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Color is in unnamed module of loader 'app')' while converting value for '-fx-prompt-text-fill' from rule '*.text-input' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-base-color' while resolving lookups for '-fx-text-fill' from rule '*.button' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Paint (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Paint is in unnamed module of loader 'app')' while converting value for '-fx-background-color' from rule '*.button' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.check-box' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Paint (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Paint is in unnamed module of loader 'app')' while converting value for '-fx-background-color' from rule '*.check-box>*.box' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Paint (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Paint is in unnamed module of loader 'app')' while converting value for '-fx-background-color' from rule '*.moe-background' in stylesheet file:/C:/Program%20Files/Greenfoot/lib/stylesheets/moe.css
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-base-color' while resolving lookups for '-fx-text-fill' from rule '*.tab-pane>*.tab-header-area>*.headers-region>*.tab>*.tab-container>*.tab-label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-base-color' while resolving lookups for '-fx-text-fill' from rule '*.tab-pane>*.tab-header-area>*.headers-region>*.tab>*.tab-container>*.tab-label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Could not resolve '-fx-text-background-color' while resolving lookups for '-fx-text-fill' from rule '*.label' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+nov. 04, 2020 3:11:03 P.M. javafx.scene.CssStyleHelper calculateValue
+WARNING: Caught 'java.lang.ClassCastException: class java.lang.String cannot be cast to class javafx.scene.paint.Paint (java.lang.String is in module java.base of loader 'bootstrap'; javafx.scene.paint.Paint is in unnamed module of loader 'app')' while converting value for '-fx-background-color' from rule '*.tab-pane>*.tab-header-area>*.headers-region>*.tab>*.tab-container>*.tab-close-button' in stylesheet jar:file:/C:/Program%20Files/Greenfoot/lib/javafx/lib/javafx.controls.jar!/com/sun/javafx/scene/control/skin/modena/modena.bss
+File C:\Users\ishak\greenfoot\Garp\Counter-temp.java changed on disk; our record is 1604499020126 but file was 1604499046521
+====
+
+====
+Greenfoot run started: Thu Nov 05 08:46:29 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604562391341: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+====
+
+====
+Greenfoot run started: Thu Nov 05 09:02:00 CET 2020
+Greenfoot version: 3.6.1
+Java version 11.0.2
+JavaFX version 11.0.2+1
+Virtual machine: OpenJDK 64-Bit Server VM 11.0.2+9 (Oracle Corporation)
+Running on: Windows 10 10.0 (amd64)
+Java Home: C:\Program Files\Greenfoot\jdk
+----
+Opening project: C:\Users\ishak\greenfoot\Garp
+1604563321964: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Exception during compilation: java.lang.RuntimeException: java.lang.RuntimeException: java.lang.IllegalArgumentException: line/column numbers must be > 0
+java.lang.RuntimeException: java.lang.RuntimeException: java.lang.IllegalArgumentException: line/column numbers must be > 0
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.handleExceptions(JavacTaskImpl.java:163)
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.doCall(JavacTaskImpl.java:100)
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.call(JavacTaskImpl.java:94)
+	at bluej.compiler.CompilerAPICompiler.compile(CompilerAPICompiler.java:230)
+	at bluej.compiler.Job.compile(Job.java:107)
+	at bluej.compiler.CompilerThread.run(CompilerThread.java:72)
+Caused by: java.lang.RuntimeException: java.lang.IllegalArgumentException: line/column numbers must be > 0
+	at bluej.compiler.EventqueueCompileObserverAdapter.runOnEventQueue(EventqueueCompileObserverAdapter.java:74)
+	at bluej.compiler.EventqueueCompileObserverAdapter.compilerMessage(EventqueueCompileObserverAdapter.java:87)
+	at bluej.compiler.CompilerAPICompiler$1.report(CompilerAPICompiler.java:180)
+	at jdk.compiler/com.sun.tools.javac.api.ClientCodeWrapper$WrappedDiagnosticListener.report(ClientCodeWrapper.java:736)
+	at jdk.compiler/com.sun.tools.javac.util.Log.writeDiagnostic(Log.java:734)
+	at jdk.compiler/com.sun.tools.javac.util.Log$DefaultDiagnosticHandler.report(Log.java:718)
+	at jdk.compiler/com.sun.tools.javac.util.Log.report(Log.java:678)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve.logResolveError(Resolve.java:3714)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve.accessInternal(Resolve.java:2475)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve.accessMethod(Resolve.java:2493)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve$BasicLookupHelper.access(Resolve.java:3307)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve$10.access(Resolve.java:2661)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve.lookupMethod(Resolve.java:3548)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve.resolveQualifiedMethod(Resolve.java:2651)
+	at jdk.compiler/com.sun.tools.javac.comp.Resolve.resolveQualifiedMethod(Resolve.java:2645)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.selectSym(Attr.java:3721)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.visitSelect(Attr.java:3601)
+	at jdk.compiler/com.sun.tools.javac.tree.JCTree$JCFieldAccess.accept(JCTree.java:2110)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribTree(Attr.java:655)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.visitApply(Attr.java:2006)
+	at jdk.compiler/com.sun.tools.javac.tree.JCTree$JCMethodInvocation.accept(JCTree.java:1634)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribTree(Attr.java:655)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribExpr(Attr.java:695)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.visitVarDef(Attr.java:1174)
+	at jdk.compiler/com.sun.tools.javac.tree.JCTree$JCVariableDecl.accept(JCTree.java:956)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribTree(Attr.java:655)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribStat(Attr.java:724)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribStats(Attr.java:743)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.visitBlock(Attr.java:1294)
+	at jdk.compiler/com.sun.tools.javac.tree.JCTree$JCBlock.accept(JCTree.java:1020)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribTree(Attr.java:655)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribStat(Attr.java:724)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.visitMethodDef(Attr.java:1098)
+	at jdk.compiler/com.sun.tools.javac.tree.JCTree$JCMethodDecl.accept(JCTree.java:866)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribTree(Attr.java:655)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribStat(Attr.java:724)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribClassBody(Attr.java:4683)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribClass(Attr.java:4574)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attribClass(Attr.java:4503)
+	at jdk.compiler/com.sun.tools.javac.comp.Attr.attrib(Attr.java:4448)
+	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.attribute(JavaCompiler.java:1341)
+	at jdk.compiler/com.sun.tools.javac.main.JavaCompiler.compile(JavaCompiler.java:973)
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.lambda$doCall$0(JavacTaskImpl.java:104)
+	at jdk.compiler/com.sun.tools.javac.api.JavacTaskImpl.handleExceptions(JavacTaskImpl.java:147)
+	... 5 more
+Caused by: java.lang.IllegalArgumentException: line/column numbers must be > 0
+	at bluej.parser.SourceLocation.<init>(SourceLocation.java:39)
+	at bluej.pkgmgr.Package$MisspeltMethodChecker.getLine(Package.java:2840)
+	at bluej.pkgmgr.Package$MisspeltMethodChecker.calculateMessage(Package.java:2867)
+	at bluej.pkgmgr.Package.showEditorDiagnostic(Package.java:2385)
+	at bluej.pkgmgr.Package$PackageCompileObserver.errorMessage(Package.java:2974)
+	at bluej.pkgmgr.Package$PackageCompileObserver.compilerMessage(Package.java:2947)
+	at bluej.collect.DataCollectionCompileObserverWrapper.compilerMessage(DataCollectionCompileObserverWrapper.java:72)
+	at bluej.compiler.EventqueueCompileObserverAdapter.lambda$compilerMessage$1(EventqueueCompileObserverAdapter.java:87)
+	at bluej.compiler.EventqueueCompileObserverAdapter.lambda$runOnEventQueue$0(EventqueueCompileObserverAdapter.java:58)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$10(PlatformImpl.java:428)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at com.sun.javafx.application.PlatformImpl.lambda$runLater$11(PlatformImpl.java:427)
+	at com.sun.glass.ui.InvokeLaterDispatcher$Future.run(InvokeLaterDispatcher.java:96)
+	at com.sun.glass.ui.win.WinApplication._runLoop(Native Method)
+	at com.sun.glass.ui.win.WinApplication.lambda$runLoop$3(WinApplication.java:174)
+	at java.base/java.lang.Thread.run(Thread.java:834)
